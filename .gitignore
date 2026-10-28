@@ -1,0 +1,11 @@
+/target
+/logs
+.media_cache/
+dump_text/
+.whisper_cache/
+/config.json
+/.unit_labels.json
+/config_zzj.json
+/config_zzr.json
+*.json.tmp
+AGENTS.md
